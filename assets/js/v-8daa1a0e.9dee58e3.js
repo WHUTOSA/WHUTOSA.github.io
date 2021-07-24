@@ -1,0 +1,1 @@
+(self.webpackChunkwulinks=self.webpackChunkwulinks||[]).push([[509],{464:(e,t,n)=>{"use strict";n.r(t),n.d(t,{data:()=>a});const a={key:"v-8daa1a0e",path:"/",title:"",lang:"ZH-cn",frontmatter:{},excerpt:"",headers:[]}},395:(e,t,n)=>{"use strict";n.r(t),n.d(t,{default:()=>r});var a=n(252);const r={render:function(e,t){return(0,a.wg)(),(0,a.j4)("p",null,"主页待施工")}}}}]);
