@@ -1,0 +1,1 @@
+import{f as a,r as s,o as r,c as t,a as n,w as e,F as o,b as u}from"./app.aa058992.js";var l=a({name:"404",setup:()=>({})});const f=n("div",null,"我们到达了宇宙的边界",-1),p=u("返回首页");l.render=function(a,u,l,c,d,i){const m=s("router-link");return r(),t(o,null,[f,n(m,{to:"/"},{default:e((()=>[p])),_:1})],64)};export{l as default};

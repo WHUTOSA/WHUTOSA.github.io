@@ -1,0 +1,1 @@
+const t={key:"v-cada3592",path:"/cultivation-2021/2021-02/",title:"阶段二",lang:"ZH-cn",frontmatter:{title:"阶段二",type:"book",scopePath:"/cultivation-2021",sort:2},excerpt:"",headers:[]};export{t as data};
