@@ -3517,7 +3517,7 @@ $o = 'undefined' != typeof document ? document : null,
 jo = new Map,
 Fo = {
   insert: (e, t, n) =>{
-    t.insertBefore(e, n || null)
+    t && t.insertBefore(e, n || null)
   },
   remove: e=>{
     const t = e.parentNode;
