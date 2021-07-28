@@ -1,1 +1,0 @@
-(self.webpackChunkwulinks=self.webpackChunkwulinks||[]).push([[652],{652:(e,n,u)=>{"use strict";u.r(n),u.d(n,{default:()=>s});var t=u(252);const l=(0,t.aZ)({name:"CodeGroupItem"});l.render=function(e,n,u,l,s,a){const r=(0,t.up)("ClientOnly");return(0,t.wg)(),(0,t.j4)(r,null,{default:(0,t.w5)((()=>[(0,t.WI)(e.$slots,"default")])),_:3})};const s=l}}]);
