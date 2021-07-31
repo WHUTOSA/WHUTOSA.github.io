@@ -1,0 +1,2 @@
+import{f as e,o as t,c as a,J as r,b as s,L as i}from"./app.bd899aa7.js";const d=e({name:"Badge",props:{type:{type:String,required:!1,default:"tip"},text:{type:String,required:!1,default:""},vertical:{type:String,required:!1,default:void 0}}});d.render=function(e,d,p,l,n,u){return t(),a("span",{class:["badge",e.type],style:{verticalAlign:e.vertical}},[r(e.$slots,"default",{},(()=>[s(i(e.text),1)]))],6)};export{d as default};
+//# sourceMappingURL=Badge.976148ab.js.map

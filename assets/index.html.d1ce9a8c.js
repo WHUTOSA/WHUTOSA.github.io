@@ -1,1 +1,0 @@
-import{o as a,c as r,F as e,a as n,b as s}from"./app.14b5a804.js";const t={},d=n("h1",{id:"阶段二",tabindex:"-1"},[n("a",{class:"header-anchor",href:"#阶段二","aria-hidden":"true"},"#"),s(" 阶段二")],-1),o=n("p",null,"啥都没写呢",-1);t.render=function(n,s){return a(),r(e,null,[d,o],64)};export{t as default};

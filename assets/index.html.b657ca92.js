@@ -1,0 +1,2 @@
+const e={key:"v-cada35d0",path:"/cultivation-2021/2021-01/",title:"阶段一",lang:"ZH-cn",frontmatter:{title:"阶段一",type:"book",scopePath:"/cultivation-2021",sort:1},excerpt:"",headers:[{level:2,title:"啥都没写呢 1",slug:"啥都没写呢-1",children:[{level:3,title:"啥都没写呢 11",slug:"啥都没写呢-11",children:[]},{level:3,title:"啥都没写呢 12",slug:"啥都没写呢-12",children:[]}]},{level:2,title:"啥都没写呢 2",slug:"啥都没写呢-2",children:[]},{level:2,title:"啥都没写呢 3",slug:"啥都没写呢-3",children:[]},{level:2,title:"啥都没写呢 4",slug:"啥都没写呢-4",children:[]}]};export{e as data};
+//# sourceMappingURL=index.html.b657ca92.js.map
